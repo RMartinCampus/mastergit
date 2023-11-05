@@ -10,5 +10,8 @@ def greet_user(username):
 def feature2_function1():
     print("This is a feature2 function1.")
 
+def feature2_function2():
+    print("This is a feature2 function2.")
+
 if __name__ == "__main__":
     main()
